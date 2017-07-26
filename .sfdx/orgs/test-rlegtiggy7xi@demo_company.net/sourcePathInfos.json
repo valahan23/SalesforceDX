@@ -1,0 +1,77 @@
+[
+    [
+        "C:\\Users\\GregH\\Documents\\Projects\\SalesforceDX_Trailhead\\ScratchOrgTesting\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\GregH\\Documents\\Projects\\SalesforceDX_Trailhead\\ScratchOrgTesting\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1500935347167,
+            "changeTime": 1500935347167,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\GregH\\Documents\\Projects\\SalesforceDX_Trailhead\\ScratchOrgTesting\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\GregH\\Documents\\Projects\\SalesforceDX_Trailhead\\ScratchOrgTesting\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1500935347167,
+            "changeTime": 1500935347167,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\GregH\\Documents\\Projects\\SalesforceDX_Trailhead\\ScratchOrgTesting\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\GregH\\Documents\\Projects\\SalesforceDX_Trailhead\\ScratchOrgTesting\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1500935347171,
+            "changeTime": 1500935347171,
+            "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\GregH\\Documents\\Projects\\SalesforceDX_Trailhead\\ScratchOrgTesting\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\GregH\\Documents\\Projects\\SalesforceDX_Trailhead\\ScratchOrgTesting\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1500935347171,
+            "changeTime": 1500935347171,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\GregH\\Documents\\Projects\\SalesforceDX_Trailhead\\ScratchOrgTesting",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\GregH\\Documents\\Projects\\SalesforceDX_Trailhead\\ScratchOrgTesting",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1500935394238,
+            "changeTime": 1500935394238,
+            "contentHash": "eef8e0288540e5ff6a0806fc838111d9b78f2a4f",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
